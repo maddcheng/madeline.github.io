@@ -1,0 +1,27 @@
+img {
+  width: 450px;
+  height: 450px;
+  /* animation-name: spin;
+  animation-duration: 5000ms;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear; */
+}
+
+h2 {
+  font-family: "futura"; color: #e3b8b8;
+}
+.test {
+  background-color: #627853; height: 45PX; WIDTH: 1280PX
+}
+
+p1 {
+  font-family: "futura"; color: #8a77c9;
+}
+/* @keyframes spin {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(360deg);
+    }
+} */
