@@ -11,7 +11,8 @@
 `git remote add origin https://github.com/maddcheng/madeline.github.io.git`
 
 ## After Making a Change in your Code:
-1. Run `git diff` to show changes
-2. If satisfied run, `git add .` to add changes to staging
-3. Next run, `git commit -m 'some message here....'`
-4. Finally, to push up to github run `git push origin master`
+1. Run `git diff` to show changes to individual lines
+2. Run `git status` to show high level file change
+3. If satisfied run, `git add .` to add changes to staging
+4. Next run, `git commit -m 'some message here....'`
+5. Finally, to push up to github run `git push origin master`
