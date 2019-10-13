@@ -1,3 +1,7 @@
+# Welcome to Maddys Page:
+Visit here [https://maddcheng.github.io/madeline.github.io/]
+
+
 ## To get to path:
 1. Open terminal
 2. `cd /Users/madd.cheng/Desktop/madelines_experiment`
